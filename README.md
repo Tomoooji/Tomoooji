@@ -6,3 +6,4 @@
 - [Raspi Controller](https://github.com/Tomoooji/raspi-controller)
 - [Planaria Renewal](https://github.com/Tomoooji/Planaria_renewal)
 - [Sentan-3 Toh lab](https://github.com/Tomoooji/Sentan-3-Toh)
+- [AgriNOVA HP](https://github.com/Tomoooji/AgriNOVA_HP)
