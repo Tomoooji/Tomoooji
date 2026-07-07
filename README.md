@@ -3,6 +3,7 @@
 - major in Bioscience🧬
 - member of [AiMEiBA🤖](https://aimeiba2022.stars.ne.jp/) & [AgriNOVA🌱](https://agrinova-kg.com/)
 ### Currently working on...
-- [Triangle Kinematics](https://github.com/Tomoooji/triangle-kinematics)
+- [Soil Sensors](https://github.com/Tomoooji/soil-sensors)
+- [Slot](https://github.com/Python-Archives/Slot)
 - [AgriNOVA HP](https://github.com/Tomoooji/AgriNOVA_HP)
 - [Raspi Controller](https://github.com/Tomoooji/raspi-controller)
